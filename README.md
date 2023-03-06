@@ -25,7 +25,7 @@ This is a dummy description of this app features
 
 ## Screenshots
 
-![Screenshot of Flow](./doc/screenshots/example.jpg)
+![Screenshot of Flow](./doc/screenshots/screenshot.jpg)
 
 ## Documentation and resources
 
