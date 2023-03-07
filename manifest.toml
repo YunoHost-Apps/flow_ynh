@@ -12,9 +12,7 @@ maintainers = ["eric_G"]
 [upstream]
 license = "MIT"
 website = "https://www.totaljs.com/flow/"
-demo = "https://demo.example.com"
 admindoc = "https://docs.totaljs.com/flow10/"
-userdoc = "https://yunohost.org/apps"
 code = "https://github.com/totaljs/flow"
 
 [integration]
