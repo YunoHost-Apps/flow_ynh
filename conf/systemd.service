@@ -1,5 +1,5 @@
 [Unit]
-Description=Flow
+Description=Flow: Visual programming interface
 After=network.target
 
 [Service]
