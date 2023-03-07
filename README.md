@@ -16,7 +16,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Total. js Flow is part of the Total. js Platform and is a direct alternative to Node-red. This visual programming interface is primarily intended for IoT and web/REST apps. Using drag and drop tools, you can quickly and reliably create a variety of workflows.
+Flow is part of the Total.js Platform and is a direct alternative to Node-red. This visual programming interface is primarily intended for IoT and web/REST apps. Using drag and drop tools, you can quickly and reliably create a variety of workflows.
 
 
 **Shipped version:** 1.0~ynh1
