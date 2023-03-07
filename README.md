@@ -21,8 +21,6 @@ Total. js Flow is part of the Total. js Platform and is a direct alternative to 
 
 **Shipped version:** 1.0~ynh1
 
-**Demo:** https://demo.example.com
-
 ## Screenshots
 
 ![Screenshot of Flow](./doc/screenshots/screenshot.jpg)
@@ -30,7 +28,6 @@ Total. js Flow is part of the Total. js Platform and is a direct alternative to 
 ## Documentation and resources
 
 * Official app website: <https://www.totaljs.com/flow/>
-* Official user documentation: <https://yunohost.org/apps>
 * Official admin documentation: <https://docs.totaljs.com/flow10/>
 * Upstream app code repository: <https://github.com/totaljs/flow>
 * YunoHost documentation for this app: <https://yunohost.org/app_flow>
