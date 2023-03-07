@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Total. js Flow fait partie de Total.js Platform et est une alternative directe à Node-red. Cette interface de programmation visuelle est principalement destinée aux applications IoT et Web/REST. À l'aide d'outils de glisser-déposer, vous pouvez créer rapidement et de manière fiable une variété de flux de travail.
